@@ -1,0 +1,9 @@
+.main-header .navbar-custom-menu {
+    display: none;
+  }
+@media (max-width: 767px) {
+  .main-header .navbar-custom-menu {
+    display: block;
+  }
+}
+
